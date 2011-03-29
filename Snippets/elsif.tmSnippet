@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>- elsif ${1:condition}
+  $0</string>
+	<key>name</key>
+	<string>elsif</string>
+	<key>scope</key>
+	<string>text.haml</string>
+	<key>tabTrigger</key>
+	<string>elsif</string>
+	<key>uuid</key>
+	<string>C56DFCDE-BFBE-4FF7-8388-08025A5D3F20</string>
+</dict>
+</plist>
